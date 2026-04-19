@@ -22,10 +22,11 @@ Click the file above (RGB-Cursor-Pack.zip) to download the full cursor pack.
 ---
 
 ## ⚙️ Installation
-1. Download the ZIP file  
-2. Extract it  
-3. Open the cursors folder  
-4. Use the files as needed  
+1. Click The Code Button
+2. Download the ZIP file  
+3. Extract it  
+4. Open the cursors folder  
+5. Use the files as needed  
 
 ---
 
